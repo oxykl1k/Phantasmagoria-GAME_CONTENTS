@@ -1,5 +1,5 @@
 # Phantasmagoria [GAME CONTENTS]
-## Phantasmagoria is a horror visual novella I made with usage of RenPy. 
+## Phantasmagoria is a horror visual novella I made with usage of RenPy
 
 ![cover itch io](https://github.com/user-attachments/assets/55e846e9-cbf9-4439-8847-ddacf4bb1681)
 
